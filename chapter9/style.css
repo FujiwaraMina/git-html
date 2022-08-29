@@ -106,6 +106,54 @@ footer{
   background-color: #aaaaaa;
 }
 
-@media screen and(max-width:768px){
+@media screen and (max-width:768px){
+
+  main{
+  width: 100%;
+  display: block;
+  margin: 50px auto;
+ }
+
+ .visual1{
+  width: 90%;
+  margin:0 auto 20px;
+}
+
+.visual2{
+  width: 90%;
+  margin:0 auto 20px;
+}
+
+.visual3{
+  width: 90%;
+  margin:0 auto;
+}
+
+.visual1-image{
+  width: 98%;
+  background-position: bottom;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin:auto;
+}
+
+.visual2-image{
+  width: 98%;
+  background-position: bottom;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin:auto;
+}
+
+.visual3-image{
+  width: 98%;
+  background-position: bottom;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin:auto;
+}
 
 }
